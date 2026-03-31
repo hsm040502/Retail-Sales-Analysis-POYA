@@ -14,7 +14,7 @@
 
 ## 📂 檔案結構說明
 - `變異數資料處理.ipynb`: 實作分層抽樣演算法與資料維度轉換。
-- `寶雅皮帶銷售分析.html`: 包含 Contrast、Tukey HSD 事後檢定與 Mixed Model、Fixed Model和Nested Model 的統計實作。
+- `寶雅皮帶銷售分析.html`: 包含 Contrast、Tukey HSD 事後檢定與 Mixed Model、Fixed Model 和 Nested Model 的統計實作。
 - `POYA_Final_Report.pdf`: 完整分析報告，涵蓋商業洞察與對象別策略建議。
 
 ## 📊 核心洞察與策略建議 (Business Insights)
