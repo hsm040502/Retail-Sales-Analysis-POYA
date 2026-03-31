@@ -13,7 +13,7 @@
 - **對比分析 (Contrast Analysis)**：針對特定款式（如：針棒款）進行對比，驗證其與市場其他產品之顯著差異。
 
 ## 📂 檔案結構說明
-- `變異數資料處理.ipynb`: 實作分層抽樣演算法與資料維度轉換。
+- `變異數資料處理.ipynb`: 實作分層抽樣與資料維度轉換。
 - `寶雅皮帶銷售分析.html`: 包含 Contrast、Tukey HSD 事後檢定與 Mixed Model、Fixed Model 和 Nested Model 的統計實作。
 - `POYA_Final_Report.pdf`: 完整分析報告，涵蓋商業洞察與對象別策略建議。
 
